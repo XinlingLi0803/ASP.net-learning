@@ -1,0 +1,85 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono)
+monodevelop-version.xml
+.ide/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+# wwwroot/
+
+# Web server IIS configuration
+.vs/
+.vscode/
+
+# User-specific files (Mono)
+monodevelop-version.xml
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework Core
+Migrations/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/*
+
+# Local history for Visual Studio
+.history/
+
+# Windows 7 shell extensions
+*.iUserDocument
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/*
+
+# Local history for Visual Studio
+.history/
+
+# Windows 7 shell extensions
+*.iUserDocument
