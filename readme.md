@@ -1,4 +1,4 @@
-# ASP.NET balzor installation and running#
+# ASP.NET balzor installation and running
 
 *The first lesson of Advanced Application Development*
 
