@@ -1,4 +1,4 @@
-#ASP.NET balzor installation and running
+ASP.NET balzor installation and running
 
 *The first lesson of Advanced Application Development*
 
@@ -8,10 +8,10 @@ Downloadind and learning Resource: https://dotnet.microsoft.com/zh-cn/learn/aspn
 
 language: shell & C#
 
-###**The first step:** 
+##**The first step:** 
 download and install .NET 8 SDK
 
-###**The second step:**
+##**The second step:**
 check whether the installation is successful, using terminal
 ```bash
 dotnet --version
